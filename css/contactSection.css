@@ -1,0 +1,33 @@
+.contactSection {
+    text-align: center;
+    padding: 50px;
+    color: #2C3E50;
+}
+
+.contactForm input,
+textarea {
+    text-align: left;
+    border: none;
+    padding: 20px;
+    width: 450px;
+}
+
+.contactForm .sendButton {
+    border: none;
+    border-radius: 5px;
+    background-color: #d40a44;
+    color: white;
+    padding: 10px 15px;
+}
+
+.sendButtonDiv {
+    width: 450px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 0 20px;
+}
+
+.contactForm .sendButton:hover {
+    background-color: #2C3E50;
+    color: white;
+}

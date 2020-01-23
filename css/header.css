@@ -1,0 +1,21 @@
+.mainHeader {
+    background-color: rgb(44, 62, 80);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10%;
+}
+
+.headerTitle {
+    font-size: x-large;
+}
+
+.mainHeader .menuItem,
+a {
+    display: inline;
+    color: white;
+    text-decoration: none;
+    padding: 0 5px;
+}

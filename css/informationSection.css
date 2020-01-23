@@ -1,0 +1,47 @@
+.informationSection {
+    background-color: #2C3E50;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 30px 10%;
+    align-items: baseline;
+    text-align: center;
+}
+
+.informationSection h3 {
+    font-size: medium;
+}
+
+.informationSection h4 {
+    font-size: small;
+    font-weight: normal;
+}
+
+.informationSection div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 300px;
+}
+
+.socialColumn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.socialColumn img {
+    width: 24px;
+    display: inline-block;
+}
+
+.extraContent {
+    text-align: center;
+}
+
+.extraInfoSection {
+    background-color: #1A252F;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

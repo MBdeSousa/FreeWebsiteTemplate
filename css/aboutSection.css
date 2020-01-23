@@ -1,0 +1,18 @@
+.aboutSection {
+    text-align: center;
+    background-color: #d40a44;
+    padding: 50px;
+    color: white;
+}
+
+.aboutContent {
+    width: 500px;
+    columns: 100px 2;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.starRedBg {
+    width: 200px;
+}
