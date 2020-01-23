@@ -1,4 +1,5 @@
 .curriculumSection {
+    /* global section */
     width: 100%;
     height: auto;
     padding: 50px;
@@ -7,6 +8,10 @@
     justify-content: center;
     align-items: center;
     color: #2C3E50;
+}
+
+.starWhiteBg {
+    width: 200px;
 }
 
 .photoGrid {
@@ -27,6 +32,6 @@
     border-radius: 5%;
 }
 
-.starWhiteBg {
-    width: 200px;
+.photoGrid>img:hover {
+    opacity: 0.5;
 }

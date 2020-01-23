@@ -1,0 +1,30 @@
+.mainHeader {
+    /* global section */
+    background-color: rgb(44, 62, 80);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    height: 52px;
+}
+
+.headerTitle {
+    /* header logo/title */
+    font-size: x-large;
+}
+
+.menuItem a {
+    /* links from menu */
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+    height: 52px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.menuItem a:hover {
+    color: #d40a44;
+}
